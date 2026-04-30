@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'prueba-api-anibal'
           slot-name: 'Production'
-          package: .
+          package: ${{ github.workspace }}
           
