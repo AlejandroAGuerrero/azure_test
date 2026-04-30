@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'prueba'
           slot-name: 'Production'
-          package: ./azure-practice/api
+          package: .
           
